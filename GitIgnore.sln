@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitIgnore", "GitIgnore.csproj", "{3CC1B555-17A3-4D88-9A34-A6C452450750}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CC1B555-17A3-4D88-9A34-A6C452450750}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CC1B555-17A3-4D88-9A34-A6C452450750}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CC1B555-17A3-4D88-9A34-A6C452450750}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CC1B555-17A3-4D88-9A34-A6C452450750}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
